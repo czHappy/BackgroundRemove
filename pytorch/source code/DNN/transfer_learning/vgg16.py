@@ -9,34 +9,6 @@ from torch import optim
 import torch.nn
 from torch.utils.data import DataLoader
 import torchvision.transforms as transforms
-model = models.vgg16_bn(pretrained=True) # 在vgg模块里找下载在本地的文件和model对应vgg的关系 有多仲vgg 不对应好就得下载
-print(model)
-
-MODEL_PATH = './DNN/models/VGG16_bn.pth'
-TRAIN_PATH = './dataset/cats_and_dogs/train'
-BATCH_SIZE = 4
-EPOCHS = 2
-DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-transform = transforms.Compose([
-    transforms.Resize(size=(224, 224)),
-    transforms.ToTensor(),#  The ToTensor transform should come before the Normalize transform, since the latter expects a tensor, but the Resize transform returns an image.
-    transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
-
-    # 可以选做数据增强
-    # transforms.RandomRotation(20),
-    # transforms.RandomHorizontalFlip(),
-])
-
-
-# 读取训练集
-train_dataset = torchvision.datasets.ImageFolder(root=TRAIN_PATH,
-                                                 transform=transform)
-train_loader = DataLoader(dataset=train_dataset,
-                          batch_size=BATCH_SIZE,
-                          shuffle=True)
-
-#print(train_dataset.class_to_idx)
-#print(train_dataset.imgs)
 
 
 def set_trainable(model, class_num):
@@ -78,15 +50,51 @@ def train(model, device, train_loader, optimizer, epoch, criterion):
 
 
 
+
+model = models.vgg16_bn(pretrained=True) # 在vgg模块里找下载在本地的文件和model对应vgg的关系 有多仲vgg 不对应好就得下载
+#print(model)
+MODEL_PATH = './DNN/models/VGG16_bn.pth'
+TRAIN_PATH = './dataset/cats_and_dogs/train'
+BATCH_SIZE = 4
+EPOCHS = 2
+DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+print(DEVICE)
+transform = transforms.Compose([
+    transforms.Resize(size=(224, 224)),
+    transforms.ToTensor(),#  The ToTensor transform should come before the Normalize transform, since the latter expects a tensor, but the Resize transform returns an image.
+    transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
+
+    # 可以选做数据增强
+    # transforms.RandomRotation(20),
+    # transforms.RandomHorizontalFlip(),
+])
+
+
+# 读取训练集
+train_dataset = torchvision.datasets.ImageFolder(root=TRAIN_PATH,
+                                                 transform=transform)
+train_loader = DataLoader(dataset=train_dataset,
+                          batch_size=BATCH_SIZE,
+                          num_workers=0,
+                          shuffle=True)
+
+#print(train_dataset.class_to_idx)
+#print(train_dataset.imgs)
+
+
+
+set_trainable(model, 2) # 0 1猫狗二分类
 model = model.to(DEVICE)
 criterion = torch.nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.classifier.parameters()) #使用adam优化器 只优化新建层的参数
+print(model)
 
 for epoch in range(1, EPOCHS + 1):
     train(model, DEVICE, train_loader, optimizer, epoch, criterion)
+    torch.save(model.state_dict(), MODEL_PATH)  # 只存字典，直接输入model的话会保存整个模型
 
-print(model)
 
-torch.save(model.state_dict(), MODEL_PATH) #只存字典，直接输入model的话会保存整个模型
+
+
 
 
