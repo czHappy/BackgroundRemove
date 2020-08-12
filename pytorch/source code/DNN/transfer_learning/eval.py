@@ -73,6 +73,13 @@ model = VGG.vgg16_bn(pretrained=False, progress=False)
 modify_vgg(model, class_num=2) #必须要将网络结构与保存的模型定义成一致的
 
 model_load = model.to(DEVICE)
-model_load.load_state_dict(torch.load(MODEL_PATH))
+
+model_load.load_state_dict(torch.load(MODEL_PATH)) #load参数
 print(model_load)
 test(model_load, DEVICE, test_loader)
+
+
+#model_load = ClassicalNet.AlexNet().to(DEVICE)
+#model_load.load_state_dict(torch.load(MODEL_PATH))
+
+# 断点续训
