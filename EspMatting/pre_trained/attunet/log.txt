@@ -1,0 +1,832 @@
+[1 / 150] 	Lr: 0.00100
+loss: 0.46004   loss_alpha: 0.13912   loss_color: 0.03381   loss_cross: 0.28712
+[2 / 150] 	Lr: 0.00100
+loss: 0.25282   loss_alpha: 0.06819   loss_color: 0.01760   loss_cross: 0.16702
+[3 / 150] 	Lr: 0.00100
+loss: 0.18770   loss_alpha: 0.05030   loss_color: 0.01312   loss_cross: 0.12428
+[4 / 150] 	Lr: 0.00100
+loss: 0.15607   loss_alpha: 0.04195   loss_color: 0.01094   loss_cross: 0.10318
+[5 / 150] 	Lr: 0.00100
+loss: 0.14216   loss_alpha: 0.03829   loss_color: 0.01013   loss_cross: 0.09374
+[6 / 150] 	Lr: 0.00100
+loss: 0.12598   loss_alpha: 0.03404   loss_color: 0.00902   loss_cross: 0.08293
+[7 / 150] 	Lr: 0.00100
+loss: 0.12708   loss_alpha: 0.03444   loss_color: 0.00927   loss_cross: 0.08337
+[8 / 150] 	Lr: 0.00100
+loss: 0.11660   loss_alpha: 0.03154   loss_color: 0.00851   loss_cross: 0.07655
+[9 / 150] 	Lr: 0.00100
+loss: 0.11304   loss_alpha: 0.03068   loss_color: 0.00832   loss_cross: 0.07404
+[10 / 150] 	Lr: 0.00100
+loss: 0.10558   loss_alpha: 0.02884   loss_color: 0.00771   loss_cross: 0.06903
+[11 / 150] 	Lr: 0.00100
+loss: 0.10826   loss_alpha: 0.02952   loss_color: 0.00801   loss_cross: 0.07073
+[12 / 150] 	Lr: 0.00100
+loss: 0.10408   loss_alpha: 0.02843   loss_color: 0.00761   loss_cross: 0.06805
+[13 / 150] 	Lr: 0.00100
+loss: 0.10076   loss_alpha: 0.02750   loss_color: 0.00752   loss_cross: 0.06574
+[14 / 150] 	Lr: 0.00100
+loss: 0.10191   loss_alpha: 0.02791   loss_color: 0.00762   loss_cross: 0.06638
+[15 / 150] 	Lr: 0.00100
+loss: 0.10200   loss_alpha: 0.02811   loss_color: 0.00761   loss_cross: 0.06629
+[16 / 150] 	Lr: 0.00100
+loss: 0.09851   loss_alpha: 0.02698   loss_color: 0.00730   loss_cross: 0.06423
+[17 / 150] 	Lr: 0.00100
+loss: 0.08907   loss_alpha: 0.02449   loss_color: 0.00665   loss_cross: 0.05794
+[18 / 150] 	Lr: 0.00100
+loss: 0.09508   loss_alpha: 0.02620   loss_color: 0.00717   loss_cross: 0.06172
+[19 / 150] 	Lr: 0.00100
+loss: 0.09138   loss_alpha: 0.02518   loss_color: 0.00683   loss_cross: 0.05937
+[20 / 150] 	Lr: 0.00100
+loss: 0.09200   loss_alpha: 0.02527   loss_color: 0.00694   loss_cross: 0.05979
+[21 / 150] 	Lr: 0.00100
+loss: 0.08727   loss_alpha: 0.02409   loss_color: 0.00657   loss_cross: 0.05660
+[22 / 150] 	Lr: 0.00100
+loss: 0.09183   loss_alpha: 0.02520   loss_color: 0.00694   loss_cross: 0.05969
+[23 / 150] 	Lr: 0.00100
+loss: 0.08848   loss_alpha: 0.02438   loss_color: 0.00677   loss_cross: 0.05733
+[24 / 150] 	Lr: 0.00100
+loss: 0.08798   loss_alpha: 0.02428   loss_color: 0.00666   loss_cross: 0.05704
+[25 / 150] 	Lr: 0.00100
+loss: 0.08938   loss_alpha: 0.02482   loss_color: 0.00684   loss_cross: 0.05772
+[26 / 150] 	Lr: 0.00100
+loss: 0.08716   loss_alpha: 0.02410   loss_color: 0.00660   loss_cross: 0.05646
+[27 / 150] 	Lr: 0.00100
+loss: 0.08443   loss_alpha: 0.02335   loss_color: 0.00637   loss_cross: 0.05471
+[28 / 150] 	Lr: 0.00100
+loss: 0.08024   loss_alpha: 0.02233   loss_color: 0.00611   loss_cross: 0.05180
+[29 / 150] 	Lr: 0.00100
+loss: 0.08747   loss_alpha: 0.02404   loss_color: 0.00659   loss_cross: 0.05684
+[30 / 150] 	Lr: 0.00100
+loss: 0.08387   loss_alpha: 0.02315   loss_color: 0.00633   loss_cross: 0.05438
+[31 / 150] 	Lr: 0.00100
+loss: 0.08611   loss_alpha: 0.02385   loss_color: 0.00655   loss_cross: 0.05571
+[32 / 150] 	Lr: 0.00100
+loss: 0.08192   loss_alpha: 0.02281   loss_color: 0.00620   loss_cross: 0.05290
+[33 / 150] 	Lr: 0.00100
+loss: 0.08568   loss_alpha: 0.02369   loss_color: 0.00645   loss_cross: 0.05553
+[34 / 150] 	Lr: 0.00100
+loss: 0.07828   loss_alpha: 0.02170   loss_color: 0.00598   loss_cross: 0.05060
+[35 / 150] 	Lr: 0.00100
+loss: 0.08302   loss_alpha: 0.02295   loss_color: 0.00627   loss_cross: 0.05381
+[36 / 150] 	Lr: 0.00100
+loss: 0.08259   loss_alpha: 0.02284   loss_color: 0.00621   loss_cross: 0.05353
+[37 / 150] 	Lr: 0.00100
+loss: 0.08047   loss_alpha: 0.02244   loss_color: 0.00612   loss_cross: 0.05190
+[38 / 150] 	Lr: 0.00100
+loss: 0.07525   loss_alpha: 0.02108   loss_color: 0.00578   loss_cross: 0.04839
+[39 / 150] 	Lr: 0.00100
+loss: 0.07902   loss_alpha: 0.02198   loss_color: 0.00603   loss_cross: 0.05100
+[40 / 150] 	Lr: 0.00100
+loss: 0.08038   loss_alpha: 0.02238   loss_color: 0.00613   loss_cross: 0.05187
+[41 / 150] 	Lr: 0.00100
+loss: 0.07989   loss_alpha: 0.02217   loss_color: 0.00612   loss_cross: 0.05160
+[42 / 150] 	Lr: 0.00100
+loss: 0.08024   loss_alpha: 0.02228   loss_color: 0.00612   loss_cross: 0.05184
+[43 / 150] 	Lr: 0.00100
+loss: 0.07711   loss_alpha: 0.02145   loss_color: 0.00590   loss_cross: 0.04975
+[44 / 150] 	Lr: 0.00100
+loss: 0.07874   loss_alpha: 0.02196   loss_color: 0.00600   loss_cross: 0.05079
+[45 / 150] 	Lr: 0.00100
+loss: 0.07666   loss_alpha: 0.02130   loss_color: 0.00585   loss_cross: 0.04951
+[46 / 150] 	Lr: 0.00100
+loss: 0.07807   loss_alpha: 0.02169   loss_color: 0.00591   loss_cross: 0.05048
+[47 / 150] 	Lr: 0.00100
+loss: 0.07989   loss_alpha: 0.02221   loss_color: 0.00605   loss_cross: 0.05163
+[48 / 150] 	Lr: 0.00100
+loss: 0.07531   loss_alpha: 0.02097   loss_color: 0.00576   loss_cross: 0.04858
+[49 / 150] 	Lr: 0.00100
+loss: 0.08015   loss_alpha: 0.02225   loss_color: 0.00612   loss_cross: 0.05178
+[50 / 150] 	Lr: 0.00100
+loss: 0.07601   loss_alpha: 0.02111   loss_color: 0.00578   loss_cross: 0.04912
+[51 / 150] 	Lr: 0.00100
+loss: 0.07715   loss_alpha: 0.02143   loss_color: 0.00579   loss_cross: 0.04993
+[52 / 150] 	Lr: 0.00100
+loss: 0.07713   loss_alpha: 0.02137   loss_color: 0.00593   loss_cross: 0.04983
+[53 / 150] 	Lr: 0.00100
+loss: 0.07687   loss_alpha: 0.02127   loss_color: 0.00585   loss_cross: 0.04974
+[54 / 150] 	Lr: 0.00100
+loss: 0.07370   loss_alpha: 0.02063   loss_color: 0.00565   loss_cross: 0.04742
+[55 / 150] 	Lr: 0.00100
+loss: 0.07485   loss_alpha: 0.02099   loss_color: 0.00582   loss_cross: 0.04804
+[56 / 150] 	Lr: 0.00100
+loss: 0.07432   loss_alpha: 0.02083   loss_color: 0.00572   loss_cross: 0.04777
+[57 / 150] 	Lr: 0.00100
+loss: 0.07977   loss_alpha: 0.02206   loss_color: 0.00610   loss_cross: 0.05161
+[58 / 150] 	Lr: 0.00100
+loss: 0.07550   loss_alpha: 0.02100   loss_color: 0.00580   loss_cross: 0.04870
+[59 / 150] 	Lr: 0.00100
+loss: 0.07672   loss_alpha: 0.02139   loss_color: 0.00591   loss_cross: 0.04942
+[60 / 150] 	Lr: 0.00100
+loss: 0.07691   loss_alpha: 0.02136   loss_color: 0.00591   loss_cross: 0.04964
+[61 / 150] 	Lr: 0.00100
+loss: 0.07741   loss_alpha: 0.02149   loss_color: 0.00595   loss_cross: 0.04996
+[62 / 150] 	Lr: 0.00100
+loss: 0.07081   loss_alpha: 0.01996   loss_color: 0.00547   loss_cross: 0.04538
+[63 / 150] 	Lr: 0.00100
+loss: 0.07640   loss_alpha: 0.02136   loss_color: 0.00583   loss_cross: 0.04921
+[64 / 150] 	Lr: 0.00100
+loss: 0.07381   loss_alpha: 0.02073   loss_color: 0.00572   loss_cross: 0.04737
+[65 / 150] 	Lr: 0.00100
+loss: 0.07265   loss_alpha: 0.02031   loss_color: 0.00559   loss_cross: 0.04676
+[66 / 150] 	Lr: 0.00100
+loss: 0.07514   loss_alpha: 0.02099   loss_color: 0.00576   loss_cross: 0.04839
+[67 / 150] 	Lr: 0.00100
+loss: 0.07372   loss_alpha: 0.02056   loss_color: 0.00566   loss_cross: 0.04750
+[68 / 150] 	Lr: 0.00100
+loss: 0.07480   loss_alpha: 0.02088   loss_color: 0.00581   loss_cross: 0.04811
+[69 / 150] 	Lr: 0.00100
+loss: 0.07578   loss_alpha: 0.02110   loss_color: 0.00578   loss_cross: 0.04890
+[70 / 150] 	Lr: 0.00100
+loss: 0.07175   loss_alpha: 0.02006   loss_color: 0.00553   loss_cross: 0.04616
+[71 / 150] 	Lr: 0.00100
+loss: 0.07286   loss_alpha: 0.02035   loss_color: 0.00566   loss_cross: 0.04685
+[72 / 150] 	Lr: 0.00100
+loss: 0.07217   loss_alpha: 0.02017   loss_color: 0.00555   loss_cross: 0.04645
+[73 / 150] 	Lr: 0.00100
+loss: 0.07186   loss_alpha: 0.02004   loss_color: 0.00554   loss_cross: 0.04628
+[74 / 150] 	Lr: 0.00100
+loss: 0.07296   loss_alpha: 0.02037   loss_color: 0.00566   loss_cross: 0.04694
+[75 / 150] 	Lr: 0.00100
+loss: 0.07350   loss_alpha: 0.02052   loss_color: 0.00563   loss_cross: 0.04735
+[76 / 150] 	Lr: 0.00100
+loss: 0.07278   loss_alpha: 0.02031   loss_color: 0.00559   loss_cross: 0.04687
+[77 / 150] 	Lr: 0.00100
+loss: 0.07369   loss_alpha: 0.02051   loss_color: 0.00567   loss_cross: 0.04751
+[78 / 150] 	Lr: 0.00100
+loss: 0.07281   loss_alpha: 0.02041   loss_color: 0.00567   loss_cross: 0.04674
+[79 / 150] 	Lr: 0.00100
+loss: 0.07561   loss_alpha: 0.02111   loss_color: 0.00584   loss_cross: 0.04867
+[80 / 150] 	Lr: 0.00100
+loss: 0.06951   loss_alpha: 0.01944   loss_color: 0.00536   loss_cross: 0.04471
+[81 / 150] 	Lr: 0.00100
+loss: 0.07210   loss_alpha: 0.02010   loss_color: 0.00551   loss_cross: 0.04648
+[82 / 150] 	Lr: 0.00100
+loss: 0.07625   loss_alpha: 0.02117   loss_color: 0.00579   loss_cross: 0.04928
+[83 / 150] 	Lr: 0.00100
+loss: 0.07211   loss_alpha: 0.02003   loss_color: 0.00552   loss_cross: 0.04656
+[84 / 150] 	Lr: 0.00100
+loss: 0.07285   loss_alpha: 0.02035   loss_color: 0.00564   loss_cross: 0.04686
+[85 / 150] 	Lr: 0.00100
+loss: 0.07149   loss_alpha: 0.01991   loss_color: 0.00549   loss_cross: 0.04609
+[86 / 150] 	Lr: 0.00100
+loss: 0.06932   loss_alpha: 0.01951   loss_color: 0.00537   loss_cross: 0.04443
+[87 / 150] 	Lr: 0.00100
+loss: 0.07390   loss_alpha: 0.02053   loss_color: 0.00560   loss_cross: 0.04777
+[88 / 150] 	Lr: 0.00100
+loss: 0.07186   loss_alpha: 0.02012   loss_color: 0.00555   loss_cross: 0.04619
+[89 / 150] 	Lr: 0.00100
+loss: 0.07229   loss_alpha: 0.02013   loss_color: 0.00547   loss_cross: 0.04669
+[90 / 150] 	Lr: 0.00100
+loss: 0.06950   loss_alpha: 0.01931   loss_color: 0.00530   loss_cross: 0.04489
+[91 / 150] 	Lr: 0.00100
+loss: 0.07154   loss_alpha: 0.02003   loss_color: 0.00549   loss_cross: 0.04602
+[92 / 150] 	Lr: 0.00100
+loss: 0.07123   loss_alpha: 0.01990   loss_color: 0.00547   loss_cross: 0.04587
+[93 / 150] 	Lr: 0.00100
+loss: 0.07263   loss_alpha: 0.02027   loss_color: 0.00561   loss_cross: 0.04675
+[94 / 150] 	Lr: 0.00100
+loss: 0.06978   loss_alpha: 0.01962   loss_color: 0.00541   loss_cross: 0.04476
+[95 / 150] 	Lr: 0.00100
+loss: 0.07213   loss_alpha: 0.02005   loss_color: 0.00556   loss_cross: 0.04652
+[96 / 150] 	Lr: 0.00100
+loss: 0.07434   loss_alpha: 0.02074   loss_color: 0.00572   loss_cross: 0.04787
+[97 / 150] 	Lr: 0.00100
+loss: 0.07043   loss_alpha: 0.01982   loss_color: 0.00549   loss_cross: 0.04512
+[98 / 150] 	Lr: 0.00100
+loss: 0.07228   loss_alpha: 0.02006   loss_color: 0.00554   loss_cross: 0.04668
+[99 / 150] 	Lr: 0.00100
+loss: 0.07457   loss_alpha: 0.02077   loss_color: 0.00577   loss_cross: 0.04803
+[100 / 150] 	Lr: 0.00100
+loss: 0.07483   loss_alpha: 0.02090   loss_color: 0.00581   loss_cross: 0.04812
+[101 / 150] 	Lr: 0.00100
+loss: 0.06823   loss_alpha: 0.01910   loss_color: 0.00526   loss_cross: 0.04387
+[102 / 150] 	Lr: 0.00100
+loss: 0.07132   loss_alpha: 0.02001   loss_color: 0.00549   loss_cross: 0.04583
+[103 / 150] 	Lr: 0.00100
+loss: 0.07355   loss_alpha: 0.02057   loss_color: 0.00568   loss_cross: 0.04730
+[104 / 150] 	Lr: 0.00100
+loss: 0.06762   loss_alpha: 0.01895   loss_color: 0.00523   loss_cross: 0.04344
+[105 / 150] 	Lr: 0.00100
+loss: 0.06952   loss_alpha: 0.01936   loss_color: 0.00534   loss_cross: 0.04483
+[106 / 150] 	Lr: 0.00100
+loss: 0.07186   loss_alpha: 0.01999   loss_color: 0.00556   loss_cross: 0.04631
+[107 / 150] 	Lr: 0.00100
+loss: 0.07143   loss_alpha: 0.01987   loss_color: 0.00553   loss_cross: 0.04604
+[108 / 150] 	Lr: 0.00100
+loss: 0.07043   loss_alpha: 0.01970   loss_color: 0.00542   loss_cross: 0.04532
+[109 / 150] 	Lr: 0.00100
+loss: 0.07276   loss_alpha: 0.02030   loss_color: 0.00555   loss_cross: 0.04691
+[110 / 150] 	Lr: 0.00100
+loss: 0.06960   loss_alpha: 0.01948   loss_color: 0.00544   loss_cross: 0.04468
+[111 / 150] 	Lr: 0.00100
+loss: 0.07127   loss_alpha: 0.01990   loss_color: 0.00550   loss_cross: 0.04587
+[112 / 150] 	Lr: 0.00100
+loss: 0.06895   loss_alpha: 0.01942   loss_color: 0.00531   loss_cross: 0.04422
+[113 / 150] 	Lr: 0.00100
+loss: 0.07039   loss_alpha: 0.01963   loss_color: 0.00541   loss_cross: 0.04535
+[114 / 150] 	Lr: 0.00100
+loss: 0.07297   loss_alpha: 0.02034   loss_color: 0.00561   loss_cross: 0.04702
+[115 / 150] 	Lr: 0.00100
+loss: 0.06797   loss_alpha: 0.01907   loss_color: 0.00527   loss_cross: 0.04364
+[116 / 150] 	Lr: 0.00100
+loss: 0.06903   loss_alpha: 0.01938   loss_color: 0.00541   loss_cross: 0.04425
+[117 / 150] 	Lr: 0.00100
+loss: 0.07379   loss_alpha: 0.02060   loss_color: 0.00573   loss_cross: 0.04746
+[118 / 150] 	Lr: 0.00100
+loss: 0.07039   loss_alpha: 0.01973   loss_color: 0.00547   loss_cross: 0.04519
+[119 / 150] 	Lr: 0.00100
+loss: 0.06951   loss_alpha: 0.01940   loss_color: 0.00536   loss_cross: 0.04475
+[120 / 150] 	Lr: 0.00100
+loss: 0.07050   loss_alpha: 0.01956   loss_color: 0.00540   loss_cross: 0.04555
+[121 / 150] 	Lr: 0.00100
+loss: 0.06915   loss_alpha: 0.01936   loss_color: 0.00535   loss_cross: 0.04444
+[122 / 150] 	Lr: 0.00100
+loss: 0.06965   loss_alpha: 0.01945   loss_color: 0.00539   loss_cross: 0.04482
+[123 / 150] 	Lr: 0.00100
+loss: 0.07109   loss_alpha: 0.01974   loss_color: 0.00547   loss_cross: 0.04588
+[124 / 150] 	Lr: 0.00100
+loss: 0.07124   loss_alpha: 0.02001   loss_color: 0.00550   loss_cross: 0.04573
+[125 / 150] 	Lr: 0.00100
+loss: 0.06881   loss_alpha: 0.01921   loss_color: 0.00533   loss_cross: 0.04426
+[126 / 150] 	Lr: 0.00100
+loss: 0.06888   loss_alpha: 0.01931   loss_color: 0.00536   loss_cross: 0.04421
+[127 / 150] 	Lr: 0.00100
+loss: 0.06973   loss_alpha: 0.01950   loss_color: 0.00541   loss_cross: 0.04482
+[128 / 150] 	Lr: 0.00100
+loss: 0.06836   loss_alpha: 0.01922   loss_color: 0.00530   loss_cross: 0.04384
+[129 / 150] 	Lr: 0.00100
+loss: 0.07193   loss_alpha: 0.01998   loss_color: 0.00547   loss_cross: 0.04648
+[130 / 150] 	Lr: 0.00100
+loss: 0.06789   loss_alpha: 0.01904   loss_color: 0.00528   loss_cross: 0.04357
+[131 / 150] 	Lr: 0.00100
+loss: 0.06884   loss_alpha: 0.01924   loss_color: 0.00530   loss_cross: 0.04431
+[132 / 150] 	Lr: 0.00100
+loss: 0.07277   loss_alpha: 0.02020   loss_color: 0.00557   loss_cross: 0.04700
+[133 / 150] 	Lr: 0.00100
+loss: 0.07021   loss_alpha: 0.01957   loss_color: 0.00536   loss_cross: 0.04528
+[134 / 150] 	Lr: 0.00100
+loss: 0.06815   loss_alpha: 0.01904   loss_color: 0.00525   loss_cross: 0.04386
+[135 / 150] 	Lr: 0.00100
+loss: 0.06810   loss_alpha: 0.01903   loss_color: 0.00534   loss_cross: 0.04373
+[136 / 150] 	Lr: 0.00100
+loss: 0.06988   loss_alpha: 0.01956   loss_color: 0.00536   loss_cross: 0.04496
+[137 / 150] 	Lr: 0.00100
+loss: 0.07159   loss_alpha: 0.01986   loss_color: 0.00549   loss_cross: 0.04624
+[138 / 150] 	Lr: 0.00100
+loss: 0.07086   loss_alpha: 0.01985   loss_color: 0.00546   loss_cross: 0.04555
+[139 / 150] 	Lr: 0.00100
+loss: 0.06982   loss_alpha: 0.01940   loss_color: 0.00538   loss_cross: 0.04504
+[140 / 150] 	Lr: 0.00100
+loss: 0.07335   loss_alpha: 0.02043   loss_color: 0.00562   loss_cross: 0.04730
+[141 / 150] 	Lr: 0.00100
+loss: 0.07326   loss_alpha: 0.02035   loss_color: 0.00563   loss_cross: 0.04728
+[142 / 150] 	Lr: 0.00100
+loss: 0.07336   loss_alpha: 0.02033   loss_color: 0.00564   loss_cross: 0.04739
+[143 / 150] 	Lr: 0.00100
+loss: 0.06658   loss_alpha: 0.01859   loss_color: 0.00512   loss_cross: 0.04288
+[144 / 150] 	Lr: 0.00100
+loss: 0.06729   loss_alpha: 0.01886   loss_color: 0.00520   loss_cross: 0.04324
+[145 / 150] 	Lr: 0.00100
+loss: 0.07077   loss_alpha: 0.01984   loss_color: 0.00549   loss_cross: 0.04544
+[146 / 150] 	Lr: 0.00100
+loss: 0.06828   loss_alpha: 0.01906   loss_color: 0.00526   loss_cross: 0.04395
+[147 / 150] 	Lr: 0.00100
+loss: 0.06765   loss_alpha: 0.01887   loss_color: 0.00522   loss_cross: 0.04357
+[148 / 150] 	Lr: 0.00100
+loss: 0.06811   loss_alpha: 0.01897   loss_color: 0.00531   loss_cross: 0.04384
+[149 / 150] 	Lr: 0.00100
+loss: 0.06841   loss_alpha: 0.01912   loss_color: 0.00529   loss_cross: 0.04400
+[150 / 150] 	Lr: 0.00100
+loss: 0.07111   loss_alpha: 0.01977   loss_color: 0.00548   loss_cross: 0.04585
+[150 / 350] 	Lr: 0.00010
+loss: 0.05544   loss_alpha: 0.01586   loss_color: 0.00439   loss_cross: 0.03518
+[151 / 350] 	Lr: 0.00010
+loss: 0.05045   loss_alpha: 0.01468   loss_color: 0.00410   loss_cross: 0.03167
+[152 / 350] 	Lr: 0.00010
+loss: 0.04886   loss_alpha: 0.01426   loss_color: 0.00399   loss_cross: 0.03061
+[153 / 350] 	Lr: 0.00010
+loss: 0.04758   loss_alpha: 0.01391   loss_color: 0.00387   loss_cross: 0.02979
+[154 / 350] 	Lr: 0.00010
+loss: 0.04696   loss_alpha: 0.01382   loss_color: 0.00385   loss_cross: 0.02929
+[155 / 350] 	Lr: 0.00010
+loss: 0.04642   loss_alpha: 0.01366   loss_color: 0.00382   loss_cross: 0.02895
+[156 / 350] 	Lr: 0.00010
+loss: 0.04629   loss_alpha: 0.01353   loss_color: 0.00378   loss_cross: 0.02898
+[157 / 350] 	Lr: 0.00010
+loss: 0.04603   loss_alpha: 0.01358   loss_color: 0.00380   loss_cross: 0.02865
+[158 / 350] 	Lr: 0.00010
+loss: 0.04588   loss_alpha: 0.01353   loss_color: 0.00381   loss_cross: 0.02855
+[159 / 350] 	Lr: 0.00010
+loss: 0.04603   loss_alpha: 0.01356   loss_color: 0.00378   loss_cross: 0.02869
+[160 / 350] 	Lr: 0.00010
+loss: 0.04533   loss_alpha: 0.01337   loss_color: 0.00375   loss_cross: 0.02821
+[161 / 350] 	Lr: 0.00010
+loss: 0.04583   loss_alpha: 0.01353   loss_color: 0.00381   loss_cross: 0.02849
+[162 / 350] 	Lr: 0.00010
+loss: 0.04453   loss_alpha: 0.01324   loss_color: 0.00372   loss_cross: 0.02758
+[163 / 350] 	Lr: 0.00010
+loss: 0.04459   loss_alpha: 0.01322   loss_color: 0.00372   loss_cross: 0.02765
+[164 / 350] 	Lr: 0.00010
+loss: 0.04361   loss_alpha: 0.01296   loss_color: 0.00363   loss_cross: 0.02702
+[165 / 350] 	Lr: 0.00010
+loss: 0.04412   loss_alpha: 0.01312   loss_color: 0.00365   loss_cross: 0.02736
+[166 / 350] 	Lr: 0.00010
+loss: 0.04401   loss_alpha: 0.01303   loss_color: 0.00366   loss_cross: 0.02732
+[167 / 350] 	Lr: 0.00010
+loss: 0.04353   loss_alpha: 0.01292   loss_color: 0.00362   loss_cross: 0.02698
+[168 / 350] 	Lr: 0.00010
+loss: 0.04310   loss_alpha: 0.01288   loss_color: 0.00363   loss_cross: 0.02659
+[169 / 350] 	Lr: 0.00010
+loss: 0.04298   loss_alpha: 0.01281   loss_color: 0.00359   loss_cross: 0.02657
+[170 / 350] 	Lr: 0.00010
+loss: 0.04302   loss_alpha: 0.01288   loss_color: 0.00361   loss_cross: 0.02653
+[171 / 350] 	Lr: 0.00010
+loss: 0.04220   loss_alpha: 0.01268   loss_color: 0.00356   loss_cross: 0.02597
+[172 / 350] 	Lr: 0.00010
+loss: 0.04415   loss_alpha: 0.01315   loss_color: 0.00373   loss_cross: 0.02727
+[173 / 350] 	Lr: 0.00010
+loss: 0.04299   loss_alpha: 0.01279   loss_color: 0.00360   loss_cross: 0.02660
+[174 / 350] 	Lr: 0.00010
+loss: 0.04399   loss_alpha: 0.01307   loss_color: 0.00365   loss_cross: 0.02727
+[175 / 350] 	Lr: 0.00010
+loss: 0.04218   loss_alpha: 0.01266   loss_color: 0.00356   loss_cross: 0.02596
+[176 / 350] 	Lr: 0.00010
+loss: 0.04185   loss_alpha: 0.01251   loss_color: 0.00352   loss_cross: 0.02582
+[177 / 350] 	Lr: 0.00010
+loss: 0.04264   loss_alpha: 0.01272   loss_color: 0.00361   loss_cross: 0.02632
+[178 / 350] 	Lr: 0.00010
+loss: 0.04288   loss_alpha: 0.01284   loss_color: 0.00359   loss_cross: 0.02645
+[179 / 350] 	Lr: 0.00010
+loss: 0.04144   loss_alpha: 0.01243   loss_color: 0.00351   loss_cross: 0.02550
+[180 / 350] 	Lr: 0.00010
+loss: 0.04241   loss_alpha: 0.01271   loss_color: 0.00360   loss_cross: 0.02610
+[181 / 350] 	Lr: 0.00010
+loss: 0.04203   loss_alpha: 0.01257   loss_color: 0.00357   loss_cross: 0.02589
+[182 / 350] 	Lr: 0.00010
+loss: 0.04202   loss_alpha: 0.01255   loss_color: 0.00354   loss_cross: 0.02593
+[183 / 350] 	Lr: 0.00010
+loss: 0.04209   loss_alpha: 0.01260   loss_color: 0.00358   loss_cross: 0.02591
+[184 / 350] 	Lr: 0.00010
+loss: 0.04097   loss_alpha: 0.01235   loss_color: 0.00349   loss_cross: 0.02513
+[185 / 350] 	Lr: 0.00010
+loss: 0.04085   loss_alpha: 0.01226   loss_color: 0.00344   loss_cross: 0.02515
+[186 / 350] 	Lr: 0.00010
+loss: 0.04221   loss_alpha: 0.01262   loss_color: 0.00358   loss_cross: 0.02600
+[187 / 350] 	Lr: 0.00010
+loss: 0.04181   loss_alpha: 0.01258   loss_color: 0.00356   loss_cross: 0.02568
+[188 / 350] 	Lr: 0.00010
+loss: 0.04152   loss_alpha: 0.01243   loss_color: 0.00349   loss_cross: 0.02560
+[189 / 350] 	Lr: 0.00010
+loss: 0.04147   loss_alpha: 0.01249   loss_color: 0.00351   loss_cross: 0.02547
+[190 / 350] 	Lr: 0.00010
+loss: 0.04120   loss_alpha: 0.01241   loss_color: 0.00353   loss_cross: 0.02527
+[191 / 350] 	Lr: 0.00010
+loss: 0.04032   loss_alpha: 0.01210   loss_color: 0.00342   loss_cross: 0.02480
+[192 / 350] 	Lr: 0.00010
+loss: 0.04058   loss_alpha: 0.01222   loss_color: 0.00343   loss_cross: 0.02492
+[193 / 350] 	Lr: 0.00010
+loss: 0.04009   loss_alpha: 0.01213   loss_color: 0.00342   loss_cross: 0.02454
+[194 / 350] 	Lr: 0.00010
+loss: 0.04136   loss_alpha: 0.01242   loss_color: 0.00351   loss_cross: 0.02543
+[195 / 350] 	Lr: 0.00010
+loss: 0.04181   loss_alpha: 0.01239   loss_color: 0.00353   loss_cross: 0.02589
+[196 / 350] 	Lr: 0.00010
+loss: 0.04116   loss_alpha: 0.01236   loss_color: 0.00351   loss_cross: 0.02528
+[197 / 350] 	Lr: 0.00010
+loss: 0.03993   loss_alpha: 0.01208   loss_color: 0.00342   loss_cross: 0.02443
+[198 / 350] 	Lr: 0.00010
+loss: 0.04048   loss_alpha: 0.01219   loss_color: 0.00345   loss_cross: 0.02484
+[199 / 350] 	Lr: 0.00010
+loss: 0.04138   loss_alpha: 0.01244   loss_color: 0.00353   loss_cross: 0.02541
+[200 / 350] 	Lr: 0.00010
+loss: 0.04083   loss_alpha: 0.01227   loss_color: 0.00347   loss_cross: 0.02509
+[201 / 350] 	Lr: 0.00010
+loss: 0.04088   loss_alpha: 0.01230   loss_color: 0.00347   loss_cross: 0.02510
+[202 / 350] 	Lr: 0.00010
+loss: 0.04184   loss_alpha: 0.01257   loss_color: 0.00358   loss_cross: 0.02569
+[203 / 350] 	Lr: 0.00010
+loss: 0.04168   loss_alpha: 0.01248   loss_color: 0.00354   loss_cross: 0.02567
+[204 / 350] 	Lr: 0.00010
+loss: 0.04012   loss_alpha: 0.01214   loss_color: 0.00342   loss_cross: 0.02456
+[205 / 350] 	Lr: 0.00010
+loss: 0.04021   loss_alpha: 0.01213   loss_color: 0.00344   loss_cross: 0.02464
+[206 / 350] 	Lr: 0.00010
+loss: 0.03972   loss_alpha: 0.01205   loss_color: 0.00341   loss_cross: 0.02427
+[207 / 350] 	Lr: 0.00010
+loss: 0.04112   loss_alpha: 0.01240   loss_color: 0.00352   loss_cross: 0.02520
+[208 / 350] 	Lr: 0.00010
+loss: 0.03958   loss_alpha: 0.01196   loss_color: 0.00339   loss_cross: 0.02423
+[209 / 350] 	Lr: 0.00010
+loss: 0.04037   loss_alpha: 0.01216   loss_color: 0.00343   loss_cross: 0.02477
+[210 / 350] 	Lr: 0.00010
+loss: 0.04063   loss_alpha: 0.01225   loss_color: 0.00350   loss_cross: 0.02488
+[211 / 350] 	Lr: 0.00010
+loss: 0.04030   loss_alpha: 0.01213   loss_color: 0.00346   loss_cross: 0.02471
+[212 / 350] 	Lr: 0.00010
+loss: 0.04052   loss_alpha: 0.01220   loss_color: 0.00348   loss_cross: 0.02484
+[213 / 350] 	Lr: 0.00010
+loss: 0.03998   loss_alpha: 0.01204   loss_color: 0.00340   loss_cross: 0.02454
+[214 / 350] 	Lr: 0.00010
+loss: 0.04116   loss_alpha: 0.01234   loss_color: 0.00351   loss_cross: 0.02530
+[215 / 350] 	Lr: 0.00010
+loss: 0.04099   loss_alpha: 0.01235   loss_color: 0.00351   loss_cross: 0.02513
+[216 / 350] 	Lr: 0.00010
+loss: 0.04111   loss_alpha: 0.01237   loss_color: 0.00351   loss_cross: 0.02524
+[217 / 350] 	Lr: 0.00010
+loss: 0.03993   loss_alpha: 0.01204   loss_color: 0.00343   loss_cross: 0.02447
+[218 / 350] 	Lr: 0.00010
+loss: 0.03973   loss_alpha: 0.01202   loss_color: 0.00342   loss_cross: 0.02429
+[219 / 350] 	Lr: 0.00010
+loss: 0.03947   loss_alpha: 0.01197   loss_color: 0.00338   loss_cross: 0.02413
+[220 / 350] 	Lr: 0.00010
+loss: 0.03994   loss_alpha: 0.01207   loss_color: 0.00341   loss_cross: 0.02446
+[221 / 350] 	Lr: 0.00010
+loss: 0.04031   loss_alpha: 0.01218   loss_color: 0.00345   loss_cross: 0.02468
+[222 / 350] 	Lr: 0.00010
+loss: 0.04069   loss_alpha: 0.01224   loss_color: 0.00350   loss_cross: 0.02494
+[223 / 350] 	Lr: 0.00010
+loss: 0.03970   loss_alpha: 0.01199   loss_color: 0.00341   loss_cross: 0.02429
+[224 / 350] 	Lr: 0.00010
+loss: 0.03979   loss_alpha: 0.01206   loss_color: 0.00344   loss_cross: 0.02428
+[225 / 350] 	Lr: 0.00010
+loss: 0.04038   loss_alpha: 0.01222   loss_color: 0.00345   loss_cross: 0.02471
+[226 / 350] 	Lr: 0.00010
+loss: 0.04004   loss_alpha: 0.01207   loss_color: 0.00344   loss_cross: 0.02453
+[227 / 350] 	Lr: 0.00010
+loss: 0.03983   loss_alpha: 0.01207   loss_color: 0.00343   loss_cross: 0.02433
+[228 / 350] 	Lr: 0.00010
+loss: 0.03990   loss_alpha: 0.01206   loss_color: 0.00341   loss_cross: 0.02443
+[229 / 350] 	Lr: 0.00010
+loss: 0.03994   loss_alpha: 0.01207   loss_color: 0.00343   loss_cross: 0.02444
+[230 / 350] 	Lr: 0.00010
+loss: 0.03991   loss_alpha: 0.01201   loss_color: 0.00343   loss_cross: 0.02447
+[231 / 350] 	Lr: 0.00010
+loss: 0.03909   loss_alpha: 0.01186   loss_color: 0.00338   loss_cross: 0.02385
+[232 / 350] 	Lr: 0.00010
+loss: 0.04008   loss_alpha: 0.01207   loss_color: 0.00343   loss_cross: 0.02458
+[233 / 350] 	Lr: 0.00010
+loss: 0.03994   loss_alpha: 0.01212   loss_color: 0.00343   loss_cross: 0.02438
+[234 / 350] 	Lr: 0.00010
+loss: 0.04066   loss_alpha: 0.01221   loss_color: 0.00352   loss_cross: 0.02493
+[235 / 350] 	Lr: 0.00010
+loss: 0.04019   loss_alpha: 0.01213   loss_color: 0.00342   loss_cross: 0.02464
+[236 / 350] 	Lr: 0.00010
+loss: 0.03952   loss_alpha: 0.01197   loss_color: 0.00339   loss_cross: 0.02416
+[237 / 350] 	Lr: 0.00010
+loss: 0.04043   loss_alpha: 0.01214   loss_color: 0.00345   loss_cross: 0.02485
+[238 / 350] 	Lr: 0.00010
+loss: 0.03856   loss_alpha: 0.01169   loss_color: 0.00332   loss_cross: 0.02356
+[239 / 350] 	Lr: 0.00010
+loss: 0.03985   loss_alpha: 0.01205   loss_color: 0.00342   loss_cross: 0.02438
+[240 / 350] 	Lr: 0.00010
+loss: 0.04019   loss_alpha: 0.01211   loss_color: 0.00341   loss_cross: 0.02468
+[241 / 350] 	Lr: 0.00010
+loss: 0.03984   loss_alpha: 0.01207   loss_color: 0.00342   loss_cross: 0.02435
+[242 / 350] 	Lr: 0.00010
+loss: 0.03937   loss_alpha: 0.01188   loss_color: 0.00340   loss_cross: 0.02409
+[243 / 350] 	Lr: 0.00010
+loss: 0.03857   loss_alpha: 0.01172   loss_color: 0.00334   loss_cross: 0.02351
+[244 / 350] 	Lr: 0.00010
+loss: 0.04072   loss_alpha: 0.01224   loss_color: 0.00349   loss_cross: 0.02499
+[245 / 350] 	Lr: 0.00010
+loss: 0.04011   loss_alpha: 0.01208   loss_color: 0.00343   loss_cross: 0.02460
+[246 / 350] 	Lr: 0.00010
+loss: 0.03851   loss_alpha: 0.01167   loss_color: 0.00330   loss_cross: 0.02354
+[247 / 350] 	Lr: 0.00010
+loss: 0.04007   loss_alpha: 0.01202   loss_color: 0.00343   loss_cross: 0.02463
+[248 / 350] 	Lr: 0.00010
+loss: 0.04090   loss_alpha: 0.01229   loss_color: 0.00352   loss_cross: 0.02509
+[249 / 350] 	Lr: 0.00010
+loss: 0.03958   loss_alpha: 0.01193   loss_color: 0.00340   loss_cross: 0.02425
+[250 / 350] 	Lr: 0.00010
+loss: 0.03938   loss_alpha: 0.01196   loss_color: 0.00340   loss_cross: 0.02402
+[251 / 350] 	Lr: 0.00010
+loss: 0.03839   loss_alpha: 0.01171   loss_color: 0.00332   loss_cross: 0.02337
+[252 / 350] 	Lr: 0.00010
+loss: 0.03935   loss_alpha: 0.01190   loss_color: 0.00335   loss_cross: 0.02410
+[253 / 350] 	Lr: 0.00010
+loss: 0.03820   loss_alpha: 0.01158   loss_color: 0.00330   loss_cross: 0.02332
+[254 / 350] 	Lr: 0.00010
+loss: 0.03951   loss_alpha: 0.01190   loss_color: 0.00340   loss_cross: 0.02420
+[255 / 350] 	Lr: 0.00010
+loss: 0.03909   loss_alpha: 0.01186   loss_color: 0.00335   loss_cross: 0.02388
+[256 / 350] 	Lr: 0.00010
+loss: 0.04116   loss_alpha: 0.01233   loss_color: 0.00348   loss_cross: 0.02536
+[257 / 350] 	Lr: 0.00010
+loss: 0.03911   loss_alpha: 0.01187   loss_color: 0.00338   loss_cross: 0.02386
+[258 / 350] 	Lr: 0.00010
+loss: 0.03848   loss_alpha: 0.01168   loss_color: 0.00332   loss_cross: 0.02348
+[259 / 350] 	Lr: 0.00010
+loss: 0.03898   loss_alpha: 0.01183   loss_color: 0.00337   loss_cross: 0.02379
+[260 / 350] 	Lr: 0.00010
+loss: 0.03974   loss_alpha: 0.01200   loss_color: 0.00346   loss_cross: 0.02427
+[261 / 350] 	Lr: 0.00010
+loss: 0.03875   loss_alpha: 0.01177   loss_color: 0.00335   loss_cross: 0.02363
+[262 / 350] 	Lr: 0.00010
+loss: 0.04001   loss_alpha: 0.01208   loss_color: 0.00343   loss_cross: 0.02450
+[263 / 350] 	Lr: 0.00010
+loss: 0.03838   loss_alpha: 0.01165   loss_color: 0.00331   loss_cross: 0.02341
+[264 / 350] 	Lr: 0.00010
+loss: 0.03921   loss_alpha: 0.01191   loss_color: 0.00339   loss_cross: 0.02392
+[265 / 350] 	Lr: 0.00010
+loss: 0.03945   loss_alpha: 0.01191   loss_color: 0.00339   loss_cross: 0.02415
+[266 / 350] 	Lr: 0.00010
+loss: 0.03885   loss_alpha: 0.01176   loss_color: 0.00331   loss_cross: 0.02378
+[267 / 350] 	Lr: 0.00010
+loss: 0.04030   loss_alpha: 0.01215   loss_color: 0.00346   loss_cross: 0.02469
+[268 / 350] 	Lr: 0.00010
+loss: 0.03972   loss_alpha: 0.01199   loss_color: 0.00342   loss_cross: 0.02431
+[269 / 350] 	Lr: 0.00010
+loss: 0.03985   loss_alpha: 0.01203   loss_color: 0.00344   loss_cross: 0.02438
+[270 / 350] 	Lr: 0.00010
+loss: 0.03812   loss_alpha: 0.01165   loss_color: 0.00333   loss_cross: 0.02314
+[271 / 350] 	Lr: 0.00010
+loss: 0.03873   loss_alpha: 0.01178   loss_color: 0.00334   loss_cross: 0.02361
+[272 / 350] 	Lr: 0.00010
+loss: 0.03980   loss_alpha: 0.01199   loss_color: 0.00337   loss_cross: 0.02444
+[273 / 350] 	Lr: 0.00010
+loss: 0.03907   loss_alpha: 0.01186   loss_color: 0.00338   loss_cross: 0.02382
+[274 / 350] 	Lr: 0.00010
+loss: 0.03947   loss_alpha: 0.01196   loss_color: 0.00341   loss_cross: 0.02409
+[275 / 350] 	Lr: 0.00010
+loss: 0.03971   loss_alpha: 0.01195   loss_color: 0.00339   loss_cross: 0.02438
+[276 / 350] 	Lr: 0.00010
+loss: 0.03996   loss_alpha: 0.01202   loss_color: 0.00342   loss_cross: 0.02452
+[277 / 350] 	Lr: 0.00010
+loss: 0.03985   loss_alpha: 0.01200   loss_color: 0.00344   loss_cross: 0.02441
+[278 / 350] 	Lr: 0.00010
+loss: 0.03871   loss_alpha: 0.01173   loss_color: 0.00338   loss_cross: 0.02360
+[279 / 350] 	Lr: 0.00010
+loss: 0.03829   loss_alpha: 0.01161   loss_color: 0.00333   loss_cross: 0.02335
+[280 / 350] 	Lr: 0.00010
+loss: 0.03922   loss_alpha: 0.01192   loss_color: 0.00337   loss_cross: 0.02393
+[281 / 350] 	Lr: 0.00010
+loss: 0.03980   loss_alpha: 0.01205   loss_color: 0.00348   loss_cross: 0.02427
+[282 / 350] 	Lr: 0.00010
+loss: 0.03930   loss_alpha: 0.01190   loss_color: 0.00341   loss_cross: 0.02399
+[283 / 350] 	Lr: 0.00010
+loss: 0.03807   loss_alpha: 0.01161   loss_color: 0.00330   loss_cross: 0.02316
+[284 / 350] 	Lr: 0.00010
+loss: 0.03889   loss_alpha: 0.01178   loss_color: 0.00334   loss_cross: 0.02377
+[285 / 350] 	Lr: 0.00010
+loss: 0.03961   loss_alpha: 0.01194   loss_color: 0.00339   loss_cross: 0.02428
+[286 / 350] 	Lr: 0.00010
+loss: 0.03791   loss_alpha: 0.01153   loss_color: 0.00329   loss_cross: 0.02308
+[287 / 350] 	Lr: 0.00010
+loss: 0.03881   loss_alpha: 0.01174   loss_color: 0.00335   loss_cross: 0.02372
+[288 / 350] 	Lr: 0.00010
+loss: 0.03889   loss_alpha: 0.01176   loss_color: 0.00334   loss_cross: 0.02379
+[289 / 350] 	Lr: 0.00010
+loss: 0.04012   loss_alpha: 0.01209   loss_color: 0.00346   loss_cross: 0.02457
+[290 / 350] 	Lr: 0.00010
+loss: 0.03805   loss_alpha: 0.01160   loss_color: 0.00330   loss_cross: 0.02315
+[291 / 350] 	Lr: 0.00010
+loss: 0.03940   loss_alpha: 0.01191   loss_color: 0.00338   loss_cross: 0.02411
+[292 / 350] 	Lr: 0.00010
+loss: 0.04052   loss_alpha: 0.01214   loss_color: 0.00346   loss_cross: 0.02492
+[293 / 350] 	Lr: 0.00010
+loss: 0.03812   loss_alpha: 0.01160   loss_color: 0.00329   loss_cross: 0.02323
+[294 / 350] 	Lr: 0.00010
+loss: 0.03853   loss_alpha: 0.01170   loss_color: 0.00334   loss_cross: 0.02349
+[295 / 350] 	Lr: 0.00010
+loss: 0.03864   loss_alpha: 0.01174   loss_color: 0.00336   loss_cross: 0.02355
+[296 / 350] 	Lr: 0.00010
+loss: 0.03869   loss_alpha: 0.01174   loss_color: 0.00337   loss_cross: 0.02358
+[297 / 350] 	Lr: 0.00010
+loss: 0.03992   loss_alpha: 0.01206   loss_color: 0.00345   loss_cross: 0.02441
+[298 / 350] 	Lr: 0.00010
+loss: 0.03750   loss_alpha: 0.01139   loss_color: 0.00325   loss_cross: 0.02287
+[299 / 350] 	Lr: 0.00010
+loss: 0.03791   loss_alpha: 0.01153   loss_color: 0.00330   loss_cross: 0.02308
+[300 / 350] 	Lr: 0.00010
+loss: 0.03933   loss_alpha: 0.01192   loss_color: 0.00337   loss_cross: 0.02403
+[301 / 350] 	Lr: 0.00010
+loss: 0.03828   loss_alpha: 0.01161   loss_color: 0.00331   loss_cross: 0.02336
+[302 / 350] 	Lr: 0.00010
+loss: 0.03921   loss_alpha: 0.01185   loss_color: 0.00339   loss_cross: 0.02397
+[303 / 350] 	Lr: 0.00010
+loss: 0.03852   loss_alpha: 0.01166   loss_color: 0.00337   loss_cross: 0.02348
+[304 / 350] 	Lr: 0.00010
+loss: 0.03874   loss_alpha: 0.01168   loss_color: 0.00333   loss_cross: 0.02373
+[305 / 350] 	Lr: 0.00010
+loss: 0.03900   loss_alpha: 0.01182   loss_color: 0.00334   loss_cross: 0.02384
+[306 / 350] 	Lr: 0.00010
+loss: 0.03860   loss_alpha: 0.01162   loss_color: 0.00335   loss_cross: 0.02363
+[307 / 350] 	Lr: 0.00010
+loss: 0.03821   loss_alpha: 0.01162   loss_color: 0.00332   loss_cross: 0.02328
+[308 / 350] 	Lr: 0.00010
+loss: 0.03878   loss_alpha: 0.01169   loss_color: 0.00334   loss_cross: 0.02375
+[309 / 350] 	Lr: 0.00010
+loss: 0.03958   loss_alpha: 0.01192   loss_color: 0.00341   loss_cross: 0.02425
+[310 / 350] 	Lr: 0.00010
+loss: 0.03985   loss_alpha: 0.01200   loss_color: 0.00341   loss_cross: 0.02443
+[311 / 350] 	Lr: 0.00010
+loss: 0.03859   loss_alpha: 0.01173   loss_color: 0.00333   loss_cross: 0.02354
+[312 / 350] 	Lr: 0.00010
+loss: 0.03895   loss_alpha: 0.01176   loss_color: 0.00335   loss_cross: 0.02384
+[313 / 350] 	Lr: 0.00010
+loss: 0.03897   loss_alpha: 0.01185   loss_color: 0.00337   loss_cross: 0.02375
+[314 / 350] 	Lr: 0.00010
+loss: 0.03782   loss_alpha: 0.01153   loss_color: 0.00330   loss_cross: 0.02298
+[315 / 350] 	Lr: 0.00010
+loss: 0.03898   loss_alpha: 0.01184   loss_color: 0.00338   loss_cross: 0.02376
+[316 / 350] 	Lr: 0.00010
+loss: 0.03823   loss_alpha: 0.01155   loss_color: 0.00330   loss_cross: 0.02337
+[317 / 350] 	Lr: 0.00010
+loss: 0.03818   loss_alpha: 0.01158   loss_color: 0.00331   loss_cross: 0.02329
+[318 / 350] 	Lr: 0.00010
+loss: 0.03790   loss_alpha: 0.01148   loss_color: 0.00327   loss_cross: 0.02316
+[319 / 350] 	Lr: 0.00010
+loss: 0.03983   loss_alpha: 0.01197   loss_color: 0.00343   loss_cross: 0.02443
+[320 / 350] 	Lr: 0.00010
+loss: 0.03811   loss_alpha: 0.01157   loss_color: 0.00331   loss_cross: 0.02323
+[321 / 350] 	Lr: 0.00010
+loss: 0.03874   loss_alpha: 0.01179   loss_color: 0.00337   loss_cross: 0.02359
+[322 / 350] 	Lr: 0.00010
+loss: 0.03822   loss_alpha: 0.01166   loss_color: 0.00333   loss_cross: 0.02323
+[323 / 350] 	Lr: 0.00010
+loss: 0.03882   loss_alpha: 0.01178   loss_color: 0.00341   loss_cross: 0.02364
+[324 / 350] 	Lr: 0.00010
+loss: 0.03845   loss_alpha: 0.01164   loss_color: 0.00331   loss_cross: 0.02350
+[325 / 350] 	Lr: 0.00010
+loss: 0.03789   loss_alpha: 0.01152   loss_color: 0.00329   loss_cross: 0.02308
+[326 / 350] 	Lr: 0.00010
+loss: 0.03839   loss_alpha: 0.01161   loss_color: 0.00332   loss_cross: 0.02346
+[327 / 350] 	Lr: 0.00010
+loss: 0.03799   loss_alpha: 0.01152   loss_color: 0.00328   loss_cross: 0.02319
+[328 / 350] 	Lr: 0.00010
+loss: 0.03830   loss_alpha: 0.01160   loss_color: 0.00331   loss_cross: 0.02339
+[329 / 350] 	Lr: 0.00010
+loss: 0.03710   loss_alpha: 0.01136   loss_color: 0.00324   loss_cross: 0.02249
+[330 / 350] 	Lr: 0.00010
+loss: 0.03829   loss_alpha: 0.01156   loss_color: 0.00333   loss_cross: 0.02341
+[331 / 350] 	Lr: 0.00010
+loss: 0.03846   loss_alpha: 0.01166   loss_color: 0.00335   loss_cross: 0.02344
+[332 / 350] 	Lr: 0.00010
+loss: 0.03744   loss_alpha: 0.01141   loss_color: 0.00325   loss_cross: 0.02278
+[333 / 350] 	Lr: 0.00010
+loss: 0.03853   loss_alpha: 0.01165   loss_color: 0.00332   loss_cross: 0.02356
+[334 / 350] 	Lr: 0.00010
+loss: 0.03980   loss_alpha: 0.01200   loss_color: 0.00346   loss_cross: 0.02435
+[335 / 350] 	Lr: 0.00010
+loss: 0.03898   loss_alpha: 0.01186   loss_color: 0.00338   loss_cross: 0.02374
+[336 / 350] 	Lr: 0.00010
+loss: 0.03768   loss_alpha: 0.01144   loss_color: 0.00329   loss_cross: 0.02295
+[337 / 350] 	Lr: 0.00010
+loss: 0.03729   loss_alpha: 0.01139   loss_color: 0.00326   loss_cross: 0.02265
+[338 / 350] 	Lr: 0.00010
+loss: 0.04031   loss_alpha: 0.01209   loss_color: 0.00344   loss_cross: 0.02478
+[339 / 350] 	Lr: 0.00010
+loss: 0.03845   loss_alpha: 0.01168   loss_color: 0.00333   loss_cross: 0.02345
+[340 / 350] 	Lr: 0.00010
+loss: 0.03875   loss_alpha: 0.01171   loss_color: 0.00335   loss_cross: 0.02369
+[341 / 350] 	Lr: 0.00010
+loss: 0.03753   loss_alpha: 0.01144   loss_color: 0.00327   loss_cross: 0.02283
+[342 / 350] 	Lr: 0.00010
+loss: 0.03831   loss_alpha: 0.01161   loss_color: 0.00331   loss_cross: 0.02338
+[343 / 350] 	Lr: 0.00010
+loss: 0.03941   loss_alpha: 0.01190   loss_color: 0.00337   loss_cross: 0.02415
+[344 / 350] 	Lr: 0.00010
+loss: 0.03894   loss_alpha: 0.01181   loss_color: 0.00339   loss_cross: 0.02374
+[345 / 350] 	Lr: 0.00010
+loss: 0.03887   loss_alpha: 0.01175   loss_color: 0.00340   loss_cross: 0.02372
+[346 / 350] 	Lr: 0.00010
+loss: 0.03725   loss_alpha: 0.01137   loss_color: 0.00326   loss_cross: 0.02262
+[347 / 350] 	Lr: 0.00010
+loss: 0.03827   loss_alpha: 0.01154   loss_color: 0.00327   loss_cross: 0.02345
+[348 / 350] 	Lr: 0.00010
+loss: 0.03915   loss_alpha: 0.01184   loss_color: 0.00335   loss_cross: 0.02396
+[349 / 350] 	Lr: 0.00010
+loss: 0.03851   loss_alpha: 0.01158   loss_color: 0.00331   loss_cross: 0.02363
+[350 / 350] 	Lr: 0.00010
+loss: 0.03952   loss_alpha: 0.01184   loss_color: 0.00342   loss_cross: 0.02426
+[350 / 600] 	Lr: 0.00001
+loss: 0.01444   loss_alpha: 0.01123   loss_color: 0.00321   loss_cross: 0.02230
+[351 / 600] 	Lr: 0.00001
+loss: 0.01406   loss_alpha: 0.01093   loss_color: 0.00313   loss_cross: 0.02184
+[352 / 600] 	Lr: 0.00001
+loss: 0.01385   loss_alpha: 0.01075   loss_color: 0.00310   loss_cross: 0.02192
+[353 / 600] 	Lr: 0.00001
+loss: 0.01417   loss_alpha: 0.01100   loss_color: 0.00317   loss_cross: 0.02280
+[354 / 600] 	Lr: 0.00001
+loss: 0.01388   loss_alpha: 0.01076   loss_color: 0.00311   loss_cross: 0.02270
+[355 / 600] 	Lr: 0.00001
+loss: 0.01366   loss_alpha: 0.01062   loss_color: 0.00304   loss_cross: 0.02295
+[356 / 600] 	Lr: 0.00001
+loss: 0.01350   loss_alpha: 0.01046   loss_color: 0.00304   loss_cross: 0.02304
+[357 / 600] 	Lr: 0.00001
+loss: 0.01362   loss_alpha: 0.01058   loss_color: 0.00304   loss_cross: 0.02386
+[358 / 600] 	Lr: 0.00001
+loss: 0.01373   loss_alpha: 0.01065   loss_color: 0.00308   loss_cross: 0.02444
+[359 / 600] 	Lr: 0.00001
+loss: 0.01359   loss_alpha: 0.01055   loss_color: 0.00305   loss_cross: 0.02475
+[360 / 600] 	Lr: 0.00001
+loss: 0.01345   loss_alpha: 0.01045   loss_color: 0.00301   loss_cross: 0.02508
+[361 / 600] 	Lr: 0.00001
+loss: 0.01338   loss_alpha: 0.01038   loss_color: 0.00300   loss_cross: 0.02558
+[362 / 600] 	Lr: 0.00001
+loss: 0.01360   loss_alpha: 0.01054   loss_color: 0.00306   loss_cross: 0.02635
+[363 / 600] 	Lr: 0.00001
+loss: 0.01346   loss_alpha: 0.01044   loss_color: 0.00302   loss_cross: 0.02668
+[364 / 600] 	Lr: 0.00001
+loss: 0.01350   loss_alpha: 0.01048   loss_color: 0.00302   loss_cross: 0.02717
+[365 / 600] 	Lr: 0.00001
+loss: 0.01344   loss_alpha: 0.01042   loss_color: 0.00302   loss_cross: 0.02766
+[366 / 600] 	Lr: 0.00001
+loss: 0.01335   loss_alpha: 0.01035   loss_color: 0.00301   loss_cross: 0.02780
+[367 / 600] 	Lr: 0.00001
+loss: 0.01353   loss_alpha: 0.01049   loss_color: 0.00304   loss_cross: 0.02877
+[368 / 600] 	Lr: 0.00001
+loss: 0.01335   loss_alpha: 0.01035   loss_color: 0.00300   loss_cross: 0.02888
+[369 / 600] 	Lr: 0.00001
+loss: 0.01354   loss_alpha: 0.01049   loss_color: 0.00304   loss_cross: 0.02938
+[370 / 600] 	Lr: 0.00001
+loss: 0.01348   loss_alpha: 0.01044   loss_color: 0.00304   loss_cross: 0.02959
+[371 / 600] 	Lr: 0.00001
+loss: 0.01337   loss_alpha: 0.01035   loss_color: 0.00302   loss_cross: 0.02990
+[372 / 600] 	Lr: 0.00001
+loss: 0.01346   loss_alpha: 0.01043   loss_color: 0.00302   loss_cross: 0.03037
+[373 / 600] 	Lr: 0.00001
+loss: 0.01342   loss_alpha: 0.01039   loss_color: 0.00303   loss_cross: 0.03027
+[374 / 600] 	Lr: 0.00001
+loss: 0.01355   loss_alpha: 0.01050   loss_color: 0.00305   loss_cross: 0.03072
+[375 / 600] 	Lr: 0.00001
+loss: 0.01338   loss_alpha: 0.01037   loss_color: 0.00301   loss_cross: 0.03081
+[376 / 600] 	Lr: 0.00001
+loss: 0.01346   loss_alpha: 0.01042   loss_color: 0.00304   loss_cross: 0.03113
+[377 / 600] 	Lr: 0.00001
+loss: 0.01343   loss_alpha: 0.01040   loss_color: 0.00303   loss_cross: 0.03134
+[378 / 600] 	Lr: 0.00001
+loss: 0.01349   loss_alpha: 0.01045   loss_color: 0.00304   loss_cross: 0.03154
+[379 / 600] 	Lr: 0.00001
+loss: 0.01330   loss_alpha: 0.01032   loss_color: 0.00298   loss_cross: 0.03155
+[380 / 600] 	Lr: 0.00001
+loss: 0.01331   loss_alpha: 0.01032   loss_color: 0.00299   loss_cross: 0.03166
+[381 / 600] 	Lr: 0.00001
+loss: 0.01334   loss_alpha: 0.01034   loss_color: 0.00300   loss_cross: 0.03192
+[382 / 600] 	Lr: 0.00001
+loss: 0.01326   loss_alpha: 0.01027   loss_color: 0.00298   loss_cross: 0.03186
+[383 / 600] 	Lr: 0.00001
+loss: 0.01331   loss_alpha: 0.01031   loss_color: 0.00301   loss_cross: 0.03216
+[384 / 600] 	Lr: 0.00001
+loss: 0.01332   loss_alpha: 0.01033   loss_color: 0.00299   loss_cross: 0.03234
+[385 / 600] 	Lr: 0.00001
+loss: 0.01316   loss_alpha: 0.01019   loss_color: 0.00297   loss_cross: 0.03233
+[386 / 600] 	Lr: 0.00001
+loss: 0.01345   loss_alpha: 0.01042   loss_color: 0.00303   loss_cross: 0.03271
+[387 / 600] 	Lr: 0.00001
+loss: 0.01327   loss_alpha: 0.01028   loss_color: 0.00299   loss_cross: 0.03268
+[388 / 600] 	Lr: 0.00001
+loss: 0.01326   loss_alpha: 0.01027   loss_color: 0.00299   loss_cross: 0.03286
+[389 / 600] 	Lr: 0.00001
+loss: 0.01325   loss_alpha: 0.01026   loss_color: 0.00298   loss_cross: 0.03285
+[390 / 600] 	Lr: 0.00001
+loss: 0.01327   loss_alpha: 0.01028   loss_color: 0.00299   loss_cross: 0.03312
+[391 / 600] 	Lr: 0.00001
+loss: 0.01335   loss_alpha: 0.01033   loss_color: 0.00303   loss_cross: 0.03337
+[392 / 600] 	Lr: 0.00001
+loss: 0.01327   loss_alpha: 0.01028   loss_color: 0.00299   loss_cross: 0.03328
+[393 / 600] 	Lr: 0.00001
+loss: 0.01335   loss_alpha: 0.01035   loss_color: 0.00301   loss_cross: 0.03362
+[394 / 600] 	Lr: 0.00001
+loss: 0.01314   loss_alpha: 0.01018   loss_color: 0.00296   loss_cross: 0.03338
+[395 / 600] 	Lr: 0.00001
+loss: 0.01317   loss_alpha: 0.01019   loss_color: 0.00298   loss_cross: 0.03351
+[396 / 600] 	Lr: 0.00001
+loss: 0.01333   loss_alpha: 0.01032   loss_color: 0.00302   loss_cross: 0.03380
+[397 / 600] 	Lr: 0.00001
+loss: 0.01316   loss_alpha: 0.01019   loss_color: 0.00296   loss_cross: 0.03363
+[398 / 600] 	Lr: 0.00001
+loss: 0.01346   loss_alpha: 0.01042   loss_color: 0.00304   loss_cross: 0.03418
+[399 / 600] 	Lr: 0.00001
+loss: 0.01314   loss_alpha: 0.01018   loss_color: 0.00297   loss_cross: 0.03366
+[400 / 600] 	Lr: 0.00001
+loss: 0.01303   loss_alpha: 0.01009   loss_color: 0.00293   loss_cross: 0.03371
+[401 / 600] 	Lr: 0.00001
+loss: 0.01326   loss_alpha: 0.01026   loss_color: 0.00299   loss_cross: 0.03397
+[402 / 600] 	Lr: 0.00001
+loss: 0.01320   loss_alpha: 0.01024   loss_color: 0.00296   loss_cross: 0.03389
+[403 / 600] 	Lr: 0.00001
+loss: 0.01344   loss_alpha: 0.01041   loss_color: 0.00303   loss_cross: 0.03430
+[404 / 600] 	Lr: 0.00001
+loss: 0.01319   loss_alpha: 0.01022   loss_color: 0.00297   loss_cross: 0.03401
+[405 / 600] 	Lr: 0.00001
+loss: 0.01312   loss_alpha: 0.01017   loss_color: 0.00295   loss_cross: 0.03393
+[406 / 600] 	Lr: 0.00001
+loss: 0.01324   loss_alpha: 0.01025   loss_color: 0.00299   loss_cross: 0.03411
+[407 / 600] 	Lr: 0.00001
+loss: 0.01323   loss_alpha: 0.01024   loss_color: 0.00299   loss_cross: 0.03439
+[408 / 600] 	Lr: 0.00001
+loss: 0.01313   loss_alpha: 0.01017   loss_color: 0.00296   loss_cross: 0.03424
+[409 / 600] 	Lr: 0.00001
+loss: 0.01336   loss_alpha: 0.01036   loss_color: 0.00300   loss_cross: 0.03487
+[410 / 600] 	Lr: 0.00001
+loss: 0.01309   loss_alpha: 0.01013   loss_color: 0.00296   loss_cross: 0.03431
+[411 / 600] 	Lr: 0.00001
+loss: 0.01327   loss_alpha: 0.01028   loss_color: 0.00300   loss_cross: 0.03460
+[412 / 600] 	Lr: 0.00001
+loss: 0.01321   loss_alpha: 0.01024   loss_color: 0.00297   loss_cross: 0.03474
+[413 / 600] 	Lr: 0.00001
+loss: 0.01304   loss_alpha: 0.01009   loss_color: 0.00295   loss_cross: 0.03434
+[414 / 600] 	Lr: 0.00001
+loss: 0.01298   loss_alpha: 0.01004   loss_color: 0.00293   loss_cross: 0.03449

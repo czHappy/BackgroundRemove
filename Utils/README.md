@@ -1,0 +1,11 @@
+# Useful Tools for Video Matting Task
+- onnx_process
+  - check onnx to keep it Consistent with torch model.
+  - Call onnx model in C++.
+- img_process
+  - bg_replace.py: Background replace.
+  - file_transfer.py: file operations like copy, move.
+  - generate_mask.py: Generate mask from alpha, using Otsu Filer.
+  - img_process: resize, to tensor, img2video, video2img, video processing in Model.
+- model_eval
+  - Calculate flops and parameters of the model.

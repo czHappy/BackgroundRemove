@@ -1,2 +1,1 @@
-# BackgroundRemove
-Background real-time Removing
+# Background Matting Project
